@@ -1,0 +1,2 @@
+# zuridjango
+zuri django training
